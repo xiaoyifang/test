@@ -1,3 +1,4 @@
+用于训练围棋棋子的识别文件 HAAR cascade classifier
 训练命令
 
 具体参考：
